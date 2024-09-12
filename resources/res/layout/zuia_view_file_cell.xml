@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <ImageView android:id="@+id/zuia_file_icon" android:layout_width="20dp" android:layout_height="20dp" android:src="@drawable/zuia_ic_file" android:layout_centerVertical="true" android:importantForAccessibility="no" android:layout_marginEnd="@dimen/zuia_horizontal_spacing_xsmall" android:layout_alignParentStart="true"/>
+    <TextView android:theme="?attr/messageTextCellStyle" android:textStyle="bold" android:ellipsize="middle" android:id="@+id/zuia_file_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toEndOf="@+id/zuia_file_icon"/>
+    <TextView android:theme="?attr/messageTextCellStyle" android:id="@+id/zuia_file_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/zuia_file_name" android:layout_toEndOf="@+id/zuia_file_icon"/>
+</merge>

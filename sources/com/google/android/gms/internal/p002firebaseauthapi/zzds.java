@@ -1,0 +1,14 @@
+package com.google.android.gms.internal.p002firebaseauthapi;
+
+/* renamed from: com.google.android.gms.internal.firebase-auth-api.zzds  reason: invalid package */
+/* compiled from: com.google.firebase:firebase-auth@@22.3.1 */
+public final /* synthetic */ class zzds implements zzny {
+    public static final /* synthetic */ zzds zza = new zzds();
+
+    private /* synthetic */ zzds() {
+    }
+
+    public final zzci zza(zzow zzow) {
+        return zzdq.zzb((zzos) zzow);
+    }
+}

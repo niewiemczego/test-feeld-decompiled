@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adapty_day">
+        <item quantity="one">%d хоног</item>
+        <item quantity="other">%d хоног</item>
+    </plurals>
+    <plurals name="adapty_month">
+        <item quantity="one">%d сар</item>
+        <item quantity="other">%d сар</item>
+    </plurals>
+    <plurals name="adapty_week">
+        <item quantity="one">%d долоо хоног</item>
+        <item quantity="other">%d долоо хоног</item>
+    </plurals>
+    <plurals name="adapty_year">
+        <item quantity="one">%d жил</item>
+        <item quantity="other">%d жил</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d секундээр хурдан урагшлуулах</item>
+        <item quantity="other">%d секундээр хурдан урагшлуулах</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d секунд ухраах</item>
+        <item quantity="other">%d секунд ухраах</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d шинэ мэдэгдэл</item>
+        <item quantity="other">%d шинэ мэдэгдэл</item>
+    </plurals>
+</resources>

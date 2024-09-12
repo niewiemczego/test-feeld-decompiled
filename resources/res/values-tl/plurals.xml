@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adapty_day">
+        <item quantity="one">%d araw</item>
+        <item quantity="other">%d na araw</item>
+    </plurals>
+    <plurals name="adapty_month">
+        <item quantity="one">%d buwan</item>
+        <item quantity="other">%d buwan</item>
+    </plurals>
+    <plurals name="adapty_week">
+        <item quantity="one">%d linggo</item>
+        <item quantity="other">%d na linggo</item>
+    </plurals>
+    <plurals name="adapty_year">
+        <item quantity="one">%d taon</item>
+        <item quantity="other">%d na taon</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">I-fast forward nang %d segundo</item>
+        <item quantity="other">I-fast forward nang %d na segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">I-rewind nang %d segundo</item>
+        <item quantity="other">I-rewind nang %d na segundo</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d bagong notification</item>
+        <item quantity="other">%d na bagong notification</item>
+    </plurals>
+</resources>

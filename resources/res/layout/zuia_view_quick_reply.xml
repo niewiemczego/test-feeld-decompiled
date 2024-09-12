@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.google.android.material.chip.ChipGroup android:id="@+id/zuia_quick_reply_chip_group" android:layout_width="wrap_content" android:layout_height="wrap_content" app:chipSpacingHorizontal="@dimen/zuia_quick_reply_spacing" app:chipSpacingVertical="@dimen/zuia_quick_reply_spacing"/>
+</merge>

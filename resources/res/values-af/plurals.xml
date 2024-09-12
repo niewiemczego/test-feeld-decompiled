@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adapty_day">
+        <item quantity="one">%d dag</item>
+        <item quantity="other">%d dae</item>
+    </plurals>
+    <plurals name="adapty_month">
+        <item quantity="one">%d maand</item>
+        <item quantity="other">%d maande</item>
+    </plurals>
+    <plurals name="adapty_week">
+        <item quantity="one">%d week</item>
+        <item quantity="other">%d weke</item>
+    </plurals>
+    <plurals name="adapty_year">
+        <item quantity="one">%d jaar</item>
+        <item quantity="other">%d jaar</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Spoel %d sekonde vinnig vorentoe</item>
+        <item quantity="other">Spoel %d sekondes vinnig vorentoe</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Spoel %d sekonde terug</item>
+        <item quantity="other">Spoel %d sekondes terug</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nuwe kennisgewing</item>
+        <item quantity="other">%d nuwe kennisgewings</item>
+    </plurals>
+</resources>

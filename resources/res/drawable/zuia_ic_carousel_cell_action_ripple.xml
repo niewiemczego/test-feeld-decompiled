@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="oval" android:color="?android:attr/colorControlHighlight">
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <solid android:color="?android:attr/colorPrimary"/>
+            <corners android:bottomLeftRadius="?attr/messageCellRadiusSize" android:bottomRightRadius="?attr/messageCellRadiusSize"/>
+        </shape>
+    </item>
+</ripple>

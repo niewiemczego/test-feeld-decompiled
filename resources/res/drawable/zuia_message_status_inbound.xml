@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:height="16dp" android:width="16dp" android:autoMirrored="true" android:viewportWidth="16" android:viewportHeight="16">
+    <path android:fillColor="?attr/messageReceiptInboundIconColor" android:pathData="M4,2l0,12l12,-12z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="1"/>
+</vector>

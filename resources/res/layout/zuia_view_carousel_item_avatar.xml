@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginStart="@dimen/zuia_horizontal_spacing_xxsmall" android:layout_marginEnd="@dimen/zuia_horizontal_spacing_xxsmall">
+    <zendesk.ui.android.conversation.avatar.AvatarImageView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center|start" android:id="@+id/zuia_carousel_list_item_avatar" android:layout_width="@dimen/zuia_avatar_image_size" android:layout_height="@dimen/zuia_avatar_image_size" android:layout_marginStart="@dimen/zuia_carousel_start_padding" android:layout_marginEnd="@dimen/zuia_carousel_avatar_padding"/>
+</FrameLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adapty_day">
+        <item quantity="one">%d тәулік</item>
+        <item quantity="other">%d тәулік</item>
+    </plurals>
+    <plurals name="adapty_month">
+        <item quantity="one">%d ай</item>
+        <item quantity="other">%d ай</item>
+    </plurals>
+    <plurals name="adapty_week">
+        <item quantity="one">%d апта</item>
+        <item quantity="other">%d апта</item>
+    </plurals>
+    <plurals name="adapty_year">
+        <item quantity="one">%d жыл</item>
+        <item quantity="other">%d жыл</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d секунд алға айналдыру</item>
+        <item quantity="other">%d секунд алға айналдыру</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d секунд артқа айналдыру</item>
+        <item quantity="other">%d секунд артқа айналдыру</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d жаңа хабарландыру</item>
+        <item quantity="other">%d жаңа хабарландыру</item>
+    </plurals>
+</resources>

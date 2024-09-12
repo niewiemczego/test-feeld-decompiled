@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bootsplash_background">#202020</color>
+    <color name="colorOnBackground">@color/zuia_color_white</color>
+    <color name="com_braze_content_card_background">#555555</color>
+    <color name="com_braze_content_card_background_border">#555555</color>
+    <color name="com_braze_content_card_background_shadow">#555555</color>
+    <color name="com_braze_content_card_empty_text_color">@android:color/white</color>
+    <color name="com_braze_content_cards_action_hint_text_color">#8ac7ff</color>
+    <color name="com_braze_content_cards_description">@android:color/white</color>
+    <color name="com_braze_content_cards_display_background_color">#1e1e1e</color>
+    <color name="com_braze_content_cards_title">@android:color/white</color>
+    <color name="com_braze_content_cards_unread_bar_color">#8ac7ff</color>
+    <color name="zma_color_background">#000000</color>
+    <color name="zma_color_danger">#681219</color>
+    <color name="zma_color_icon_color_default">#a6ffffff</color>
+    <color name="zma_color_message_inbound_background">#2f3941</color>
+    <color name="zma_color_message_inbound_text">#ffffff</color>
+    <color name="zma_color_on_background">#ffffff</color>
+    <color name="zma_color_on_danger">#f5d5d8</color>
+</resources>

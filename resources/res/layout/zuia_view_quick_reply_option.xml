@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:id="@+id/zuia_quick_reply_options_view_container" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:defaultFocusHighlightEnabled="false">
+        <TextView android:textColor="?attr/quickReplyOptionTextColor" android:id="@+id/zuia_quick_reply_options_view" android:paddingTop="@dimen/zuia_vertical_message_padding" android:paddingBottom="@dimen/zuia_vertical_message_padding" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/zuia_quick_reply_options_min_height" android:paddingStart="@dimen/zuia_horizontal_message_padding" android:paddingEnd="@dimen/zuia_horizontal_message_padding"/>
+    </FrameLayout>
+</merge>

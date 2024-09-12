@@ -1,0 +1,42 @@
+package com.appsflyer.reactnative;
+
+public class RNAppsFlyerConstants {
+    static final String ADDITIONAL_PARAMETERS = "additionalParameters";
+    static final String CURRENCY = "currency";
+    static final String EMPTY_OR_CORRUPTED_LIST = "No arguments found or list is corrupted";
+    static final String INVALID_URI = "Passed string is not a valid URI";
+    static final String INVITE_BRAND_DOMAIN = "brandDomain";
+    static final String INVITE_CAMPAIGN = "campaign";
+    static final String INVITE_CHANNEL = "channel";
+    static final String INVITE_CUSTOMERID = "customerID";
+    static final String INVITE_DEEPLINK = "baseDeepLink";
+    static final String INVITE_FAIL = "Could not create invite link";
+    static final String INVITE_IMAGEURL = "referreImageURL";
+    static final String INVITE_REFERRER = "referrerName";
+    static final String NO_DEVKEY_FOUND = "No 'devKey' found or its empty";
+    static final String NO_EVENT_NAME_FOUND = "No 'eventName' found or its empty";
+    static final String NO_PARAMETERS_ERROR = "Please provide purchase parameters";
+    static final String PLUGIN_VERSION = "6.10.3";
+    static final String PRICE = "price";
+    static final String PROMOTE_ID = "promotedAppId";
+    static final String PUBLIC_KEY = "publicKey";
+    static final String PURCHASE_DATA = "purchaseData";
+    static final String SIGNATURE = "signature";
+    static final String SUCCESS = "Success";
+    static final String UNKNOWN_ERROR = "AF Unknown Error";
+    static final String VALIDATE_FAILED = "In-App Purchase Validation failed with error: ";
+    static final String VALIDATE_SUCCESS = "In-App Purchase Validation success";
+    static final String afConversionData = "onInstallConversionDataListener";
+    static final String afDeepLink = "onDeepLinkListener";
+    static final String afDevKey = "devKey";
+    static final String afEmails = "emails";
+    static final String afEmailsCryptType = "emailsCryptType";
+    static final String afFailure = "failure";
+    static final String afIsDebug = "isDebug";
+    static final String afOnAppOpenAttribution = "onAppOpenAttribution";
+    static final String afOnAttributionFailure = "onAttributionFailure";
+    static final String afOnDeepLinking = "onDeepLinking";
+    static final String afOnInstallConversionDataLoaded = "onInstallConversionDataLoaded";
+    static final String afOnInstallConversionFailure = "onInstallConversionFailure";
+    static final String afSuccess = "success";
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:opacity="opaque">
+    <item android:gravity="fill">
+        <color android:color="?attr/bootSplashBackground"/>
+    </item>
+    <item android:gravity="center" android:height="288dp" android:width="288dp" android:drawable="?attr/bootSplashLogo"/>
+    <item android:gravity="bottom|center_vertical|center_horizontal|center" android:height="80dp" android:width="200dp" android:drawable="?attr/bootSplashBrand" android:bottom="60dp"/>
+</layer-list>

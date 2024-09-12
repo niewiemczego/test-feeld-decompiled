@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:id="@+id/zuia_avatar_container" android:clipChildren="true" android:layout_width="@dimen/zuia_avatar_image_size" android:layout_height="@dimen/zuia_avatar_image_size">
+        <com.google.android.material.imageview.ShapeableImageView android:layout_gravity="center" android:id="@+id/zuia_avatar_image_view" android:layout_width="@dimen/zuia_avatar_image_size" android:layout_height="@dimen/zuia_avatar_image_size" android:scaleType="centerCrop" android:importantForAccessibility="no"/>
+    </FrameLayout>
+</merge>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.google.android.material.appbar.MaterialToolbar android:theme="?attr/conversationHeaderStyle" android:id="@+id/zuia_conversation_header_toolbar" android:descendantFocusability="afterDescendants" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?android:attr/actionBarSize" android:touchscreenBlocksFocus="false" android:keyboardNavigationCluster="false" app:contentInsetStart="@dimen/zuia_header_logo_content_insert" app:contentInsetStartWithNavigation="0dp" app:subtitleTextAppearance="?attr/conversationHeaderDescriptionStyle" app:titleTextAppearance="?attr/conversationHeaderTitleStyle"/>
+</merge>

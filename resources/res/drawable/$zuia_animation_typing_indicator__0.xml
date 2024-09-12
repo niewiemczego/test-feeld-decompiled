@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:name="vector" android:height="@dimen/zuia_typing_indicator_dots_container_size" android:width="@dimen/zuia_typing_indicator_dots_container_size" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:name="first" android:fillColor="#000000" android:pathData="M 3 15 C 1.343 15 0 13.657 0 12 C 0 10.343 1.343 9 3 9 C 4.657 9 6 10.343 6 12 C 6 13.657 4.657 15 3 15 Z" android:strokeWidth="1" android:fillAlpha="0.2" android:fillType="1"/>
+    <path android:name="middle" android:fillColor="#000000" android:pathData="M 12 15 C 10.343 15 9 13.657 9 12 C 9 10.343 10.343 9 12 9 C 13.657 9 15 10.343 15 12 C 15 13.657 13.657 15 12 15 Z" android:strokeWidth="1" android:fillAlpha="0.6" android:fillType="1"/>
+    <path android:name="last" android:fillColor="#000000" android:pathData="M 21 15 C 19.343 15 18 13.657 18 12 C 18 10.343 19.343 9 21 9 C 22.657 9 24 10.343 24 12 C 24 13.657 22.657 15 21 15 Z" android:strokeWidth="1" android:fillAlpha="0.6" android:fillType="1"/>
+</vector>

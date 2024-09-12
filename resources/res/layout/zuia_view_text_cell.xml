@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:theme="?attr/messageTextCellStyle" android:autoLink="none|web|email|phone" android:layout_gravity="center" android:id="@+id/zuia_message_text" android:paddingTop="@dimen/zuia_vertical_message_padding" android:paddingBottom="@dimen/zuia_vertical_message_padding" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/zuia_horizontal_message_padding" android:paddingEnd="@dimen/zuia_horizontal_message_padding" android:defaultFocusHighlightEnabled="false"/>
+        <LinearLayout android:orientation="vertical" android:id="@+id/zuia_action_buttons_container" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</merge>

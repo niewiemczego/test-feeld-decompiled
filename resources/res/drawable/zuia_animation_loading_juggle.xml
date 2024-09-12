@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/$zuia_animation_loading_juggle__0">
+    <target android:name="dot1" android:animation="@drawable/$zuia_animation_loading_juggle__1"/>
+    <target android:name="dot2" android:animation="@drawable/$zuia_animation_loading_juggle__2"/>
+    <target android:name="dot3" android:animation="@drawable/$zuia_animation_loading_juggle__3"/>
+</animated-vector>

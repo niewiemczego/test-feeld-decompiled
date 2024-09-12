@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adapty_day">
+        <item quantity="one">%d օր</item>
+        <item quantity="other">%d օր</item>
+    </plurals>
+    <plurals name="adapty_month">
+        <item quantity="one">%d ամիս</item>
+        <item quantity="other">%d ամիս</item>
+    </plurals>
+    <plurals name="adapty_week">
+        <item quantity="one">%d շաբաթ</item>
+        <item quantity="other">%d շաբաթ</item>
+    </plurals>
+    <plurals name="adapty_year">
+        <item quantity="one">%d տարի</item>
+        <item quantity="other">%d տարի</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d վայրկյան առաջ տալ</item>
+        <item quantity="other">%d վայրկյան առաջ տալ</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d վայրկյան հետ տալ</item>
+        <item quantity="other">%d վայրկյան հետ տալ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d նոր ծանուցում</item>
+        <item quantity="other">%d նոր ծանուցում</item>
+    </plurals>
+</resources>

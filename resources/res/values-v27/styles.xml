@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BootSplash.EdgeToEdge">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="?0x10104e0">?attr/darkContentBarsStyle</item>
+        <item name="?0x101056c">?attr/darkContentBarsStyle</item>
+        <item name="?0x1010586">1</item>
+    </style>
+</resources>

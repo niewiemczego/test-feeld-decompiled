@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:clipChildren="true">
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/zuia_carousel_list" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxHeight="@dimen/zuia_max_carousel_height" android:minHeight="@dimen/zuia_min_carousel_height"/>
+    <FrameLayout android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:id="@+id/zuia_carousel_next_button" android:background="@drawable/zuia_ic_carousel_button_circle" android:layout_width="@dimen/zuia_carousel_next_prev_size" android:layout_height="@dimen/zuia_carousel_next_prev_size" android:layout_margin="@dimen/zuia_horizontal_spacing_xsmall" android:foreground="@drawable/zuia_ic_carousel_button_ripple" android:elevation="@dimen/zuia_carousel_next_prev_elevation">
+        <ImageView android:padding="@dimen/zuia_horizontal_spacing_xsmall" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/zuia_ic_carousel_next_arrow" android:scaleType="fitCenter"/>
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/zuia_carousel_prev_button" android:background="@drawable/zuia_ic_carousel_button_circle" android:layout_width="@dimen/zuia_carousel_next_prev_size" android:layout_height="@dimen/zuia_carousel_next_prev_size" android:layout_margin="@dimen/zuia_horizontal_spacing_xsmall" android:foreground="@drawable/zuia_ic_carousel_button_ripple" android:elevation="@dimen/zuia_carousel_next_prev_elevation">
+        <ImageView android:padding="@dimen/zuia_horizontal_spacing_xsmall" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/zuia_ic_carousel_prev_arrow" android:scaleType="fitCenter" android:elevation="@dimen/zuia_carousel_next_prev_elevation"/>
+    </FrameLayout>
+</merge>

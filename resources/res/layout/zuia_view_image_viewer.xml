@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <ImageView android:id="@+id/zuia_image_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <zendesk.ui.android.conversation.header.ConversationHeaderView android:id="@+id/zuia_header_view" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</merge>
